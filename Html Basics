@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>website title name</title> </title>
+</head>
+<body>
+    <div class="maincls">
+        <h1>Heading1</h1>
+        <h2>heading2</h2>
+        <h3>heading3</h3>
+        <h4>heading4</h4>
+        <h5>heading5</h5>
+        <h6>heading6</h6>
+        <p>this is para</p>
+        <button>click me </button>
+        <br/><br/>
+        <a href="https://www.amazon.com" target="_blank">codegnan link</a>
+        <hr/>
+        <div>This is black level element . it occupies full/new line with 100% width</div>
+        <span>This is inline element .It just occupies the content background  </span>
+        <br/><br/>
+         <heading> Header sematic elements </heading>
+         <section>Body sematic elements </section>
+         <footer>Footer sematic elements</footer>
+         <br/><br/>
+         <img  src="../demo/photo/hh.webp" height="200px" width="200px"/>
+    </div>
+    
+</body>
+</html>
